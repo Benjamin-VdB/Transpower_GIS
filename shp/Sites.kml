@@ -1,0 +1,2400 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Sites" id="Sites">
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="MXLOCATION" type="string"></SimpleField>
+	<SimpleField name="type" type="string"></SimpleField>
+	<SimpleField name="status" type="string"></SimpleField>
+	<SimpleField name="GlobalID" type="string"></SimpleField>
+</Schema>
+<Folder><name>Sites</name>
+  <Placemark>
+	<description>Albany</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">1</SimpleData>
+		<SimpleData name="MXLOCATION">ALB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">86f5a8be-24af-4de8-832b-c20f8c4a6bdb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.690466414891,-36.739446186701</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Arthurs Pass</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">2</SimpleData>
+		<SimpleData name="MXLOCATION">APS</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a3500dd4-eaa8-461d-87a9-755b0fbee336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.568897953066,-42.9490462912039</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Aratiatia</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">3</SimpleData>
+		<SimpleData name="MXLOCATION">ARA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">f8a17c42-1770-40eb-865a-e67bbe35b3a3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.143035785305,-38.6158816220972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Argyle</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">4</SimpleData>
+		<SimpleData name="MXLOCATION">ARG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">92dc8e3a-1d5f-4adc-ae89-e946de9374de</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>173.202263113687,-41.6708510178546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Arapuni</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">5</SimpleData>
+		<SimpleData name="MXLOCATION">ARI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">cc3c064f-3260-4ea5-bf56-8a0e68c28178</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.64305760814,-38.071752154401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ashburton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">6</SimpleData>
+		<SimpleData name="MXLOCATION">ASB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">68aa813f-b5c9-4482-bc3c-931f1a089c51</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.802173372162,-43.9416643829809</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ashley</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">7</SimpleData>
+		<SimpleData name="MXLOCATION">ASY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">eeb52655-a57b-4243-93e9-0a6eb328957b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.622661661296,-43.2624751504703</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Atiamuri</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">8</SimpleData>
+		<SimpleData name="MXLOCATION">ATI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">0feb3df2-8b8c-4c15-b65e-1e1ffa85a719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.022720801117,-38.392876623533</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Albury</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">9</SimpleData>
+		<SimpleData name="MXLOCATION">ABY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">7e6f1ffb-3de9-4343-a618-c42243915699</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.800432533046,-44.2514758387243</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Addington</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">10</SimpleData>
+		<SimpleData name="MXLOCATION">ADD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">01ec318c-07ea-448f-a913-489e87496c8b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.602487403846,-43.5389243282425</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Atarau</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">11</SimpleData>
+		<SimpleData name="MXLOCATION">ATU</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a7eb273a-5197-41a1-ad30-ab60798317be</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.541010876634,-42.3168376158128</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Aviemore</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">12</SimpleData>
+		<SimpleData name="MXLOCATION">AVI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">12791a9d-0284-483d-8389-361148ef26db</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.354334937641,-44.658443020586</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Balclutha</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">13</SimpleData>
+		<SimpleData name="MXLOCATION">BAL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ff9fb2fa-5a84-430e-8ae0-9f4a4990092a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.770867903525,-46.2277044005775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Brydone</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">14</SimpleData>
+		<SimpleData name="MXLOCATION">BDE</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5061d3bb-1b9d-41de-8130-ded1e322834d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.841744132543,-46.2244751915298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Benmore AC</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">15</SimpleData>
+		<SimpleData name="MXLOCATION">BEN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fa79a89c-58fa-47c0-bd36-193302e12db8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.194639409208,-44.5664147870745</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Blenheim</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">16</SimpleData>
+		<SimpleData name="MXLOCATION">BLN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">27404fe7-e909-498b-8eee-1f7c1c54b605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>173.932545330642,-41.4985322594574</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Bombay</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">17</SimpleData>
+		<SimpleData name="MXLOCATION">BOB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">06d66cab-06ea-4752-abc5-e785ad820c35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.000369815938,-37.1887207494628</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Brownhill Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">18</SimpleData>
+		<SimpleData name="MXLOCATION">BHL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">1c3ed6d1-e5f6-4923-924e-0d1aca9cc9ea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.959798041143,-36.9735888204098</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Bells Pond</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">19</SimpleData>
+		<SimpleData name="MXLOCATION">BPD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">546f21a6-8c34-4476-b08a-43cd42a9c904</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.957643993681,-44.8874167305608</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Bunnythorpe</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">20</SimpleData>
+		<SimpleData name="MXLOCATION">BPE</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">272bd3fb-4fc4-4f2f-928d-61a64fd2ab0b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.640549552694,-40.2813249750066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Black Point</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">21</SimpleData>
+		<SimpleData name="MXLOCATION">BPT</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ba86695b-0225-4231-93bc-726f778703de</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.799467253865,-44.8881509892241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Bream Bay</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">22</SimpleData>
+		<SimpleData name="MXLOCATION">BRB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">17f9742f-b2f4-47fc-a00f-cd7aba883341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.479885301631,-35.8490321588718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Brunswick</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">23</SimpleData>
+		<SimpleData name="MXLOCATION">BRK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">241b6832-0c82-462f-8c99-b89a40592b14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.050640130647,-39.8697114289589</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Bromley</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">24</SimpleData>
+		<SimpleData name="MXLOCATION">BRY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">912dfcff-f54f-4c70-b791-a477e04db0cb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.698123520772,-43.5322835709355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Berwick</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">25</SimpleData>
+		<SimpleData name="MXLOCATION">BWK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">772b7090-bc44-4dd3-8690-72240255ce5f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.102209878491,-45.9404885200938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Cambridge</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">26</SimpleData>
+		<SimpleData name="MXLOCATION">CBG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ab458649-f969-4bd5-a98b-2c4664715103</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.483932619253,-37.8707054945911</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Castle Hill</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">27</SimpleData>
+		<SimpleData name="MXLOCATION">CLH</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">6fae53af-1ff7-4da6-8a3c-8f5a1b880b23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.729771248312,-43.2132638896263</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Cromwell</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">28</SimpleData>
+		<SimpleData name="MXLOCATION">CML</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">393a834c-f7d6-4f0b-afd7-af8ebde11a12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.191024944311,-45.0590015654094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Coleridge</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">30</SimpleData>
+		<SimpleData name="MXLOCATION">COL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">bcac8e6d-ddde-482d-bd38-aaaa2c698926</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.52697366059,-43.3637726928018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Central Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">31</SimpleData>
+		<SimpleData name="MXLOCATION">CPK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5490e2a2-b66d-406e-9d77-cfe0456d873a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.769576650527,-41.300594549992</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Carrington Street</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">32</SimpleData>
+		<SimpleData name="MXLOCATION">CST</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">bd4ac2cf-9c18-494e-8cfd-c970275b9f9f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.087187572705,-39.081164231719</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Culverden</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">33</SimpleData>
+		<SimpleData name="MXLOCATION">CUL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">9adcaeb1-8f95-4c20-961e-abde100d593e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.876146413608,-42.7188970796934</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Clyde</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">34</SimpleData>
+		<SimpleData name="MXLOCATION">CYD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">40567b27-50bd-400c-a995-cee209607fa3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.306237727031,-45.1803819373439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Dobson</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">35</SimpleData>
+		<SimpleData name="MXLOCATION">DOB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">d2fcf366-6aac-4182-a5af-6b4c336ad1ec</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.300928894481,-42.4532092414873</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Drury</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">36</SimpleData>
+		<SimpleData name="MXLOCATION">DRY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">e4362537-0b01-4bb5-a30b-101074dc0f7f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.960494215111,-37.1251807158667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Dannevirke</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">37</SimpleData>
+		<SimpleData name="MXLOCATION">DVK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">e0e29fdc-4e9a-4e69-8c89-f4f8e151cacd</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.030757385008,-40.1901122069535</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Edgecumbe</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">38</SimpleData>
+		<SimpleData name="MXLOCATION">EDG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">8c1b48c6-e8e0-4048-a427-47fcdddd1455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.828871316464,-37.9872589210314</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Edendale</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">39</SimpleData>
+		<SimpleData name="MXLOCATION">EDN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">82357063-5f96-42be-92d5-0c28d7cd3a22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.778401666806,-46.3114395317418</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Fernhill</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">40</SimpleData>
+		<SimpleData name="MXLOCATION">FHL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">0a3cf166-313d-46cf-8fcb-28af04864cb1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.762544516125,-39.5992983541946</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Frankton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">41</SimpleData>
+		<SimpleData name="MXLOCATION">FKN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">b55a9b99-27e7-428a-bd39-6f393fb1fe39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.740071684215,-45.0103858746997</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Gracefield</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">42</SimpleData>
+		<SimpleData name="MXLOCATION">GFD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">cfe09e4d-5df4-4ebe-b230-fa884c0ac920</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.917087061588,-41.2402796604975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Glenbrook</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">44</SimpleData>
+		<SimpleData name="MXLOCATION">GLN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">71f1bfb3-793f-4156-97c8-a3460ce156df</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.731249878416,-37.203334379937</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Greymouth</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">45</SimpleData>
+		<SimpleData name="MXLOCATION">GYM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">bdce160c-f86c-431f-b4e7-ca689cdccfcb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.214429528716,-42.4548838786398</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Greytown</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">46</SimpleData>
+		<SimpleData name="MXLOCATION">GYT</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fb16bc07-a93c-4d12-beb2-ea35dee8abc0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.437284110499,-41.1182496707079</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hamilton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">47</SimpleData>
+		<SimpleData name="MXLOCATION">HAM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c4ba0b13-ef1d-419b-ab74-b8ee267e1bc6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.304950522995,-37.7793951017136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Haywards AC</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">48</SimpleData>
+		<SimpleData name="MXLOCATION">HAY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c923f2dc-d2d3-4be8-9a2b-0a44ba17f697</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.981343613069,-41.1508668000067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Henderson</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">49</SimpleData>
+		<SimpleData name="MXLOCATION">HEN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ad6c62ca-c407-498f-a86c-3f767c7f228d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.617529287645,-36.8409721729127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hepburn Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">50</SimpleData>
+		<SimpleData name="MXLOCATION">HEP</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">20639efb-48f8-47d5-b0db-251542979c39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.660086441648,-36.8860120666732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hinuera</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">51</SimpleData>
+		<SimpleData name="MXLOCATION">HIN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2d590846-f414-491e-b5bc-0289d0312d18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.765345864269,-37.9196351054278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Gore</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">52</SimpleData>
+		<SimpleData name="MXLOCATION">GOR</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">d80e61dc-af54-4127-92e2-421ca9ffc046</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.911652183508,-46.1150913543336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hokitika (Westpower)</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">53</SimpleData>
+		<SimpleData name="MXLOCATION">HKK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">db6f2e26-440a-4c75-9f8f-82a2b934fd4f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.983012226171,-42.7247679185799</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Huntly</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">54</SimpleData>
+		<SimpleData name="MXLOCATION">HLY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">8f5ba0f2-3465-4a31-bad3-9bc84cf3d075</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.151828826065,-37.5417405345557</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hobson Street</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">55</SimpleData>
+		<SimpleData name="MXLOCATION">HOB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">40ec5d26-25c7-4e78-ae7e-efd9a3d77e2e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.762191822817,-36.8452969096825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hororata</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">56</SimpleData>
+		<SimpleData name="MXLOCATION">HOR</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">e2487f66-04be-4810-8957-f388fc321603</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.981080449601,-43.5456548924265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Huapai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">57</SimpleData>
+		<SimpleData name="MXLOCATION">HPI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">cd52beb8-bdba-401c-b0d8-62d0a1a2bb0e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.541214004271,-36.7603933046386</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hangatiki</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">58</SimpleData>
+		<SimpleData name="MXLOCATION">HTI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">494a28a3-4674-4d20-a128-a46346520169</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.177950692598,-38.2515706082465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Huirangi</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">59</SimpleData>
+		<SimpleData name="MXLOCATION">HUI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">64d4a360-6457-49c0-aaee-e919b33a9838</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.237032072634,-39.0434291526236</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Hawera</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">60</SimpleData>
+		<SimpleData name="MXLOCATION">HWA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">dad07c38-b0a7-48d9-a4ff-2fbc4975a0a9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.31010504577,-39.566496634027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Halfway Bush</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">61</SimpleData>
+		<SimpleData name="MXLOCATION">HWB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ee29a21f-9763-499f-a281-90b9dba75688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.47558197708,-45.8551957168122</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Inangahua</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">62</SimpleData>
+		<SimpleData name="MXLOCATION">IGH</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fd8c8e05-d9a4-4eed-bc9c-51713c06416e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.953547394353,-41.8562739774748</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Invercargill</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">63</SimpleData>
+		<SimpleData name="MXLOCATION">INV</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">452574b7-6d58-4830-b641-945510ba8260</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.392518110322,-46.392743093686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Islington</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">64</SimpleData>
+		<SimpleData name="MXLOCATION">ISL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">22f529de-6151-4f09-a120-454b1c24d53f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.511707102621,-43.5364206560028</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kaiapoi</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">65</SimpleData>
+		<SimpleData name="MXLOCATION">KAI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">8e78afce-cbdd-4df9-9dd4-e0264e0e066a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.638034397467,-43.3815922687189</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kawerau</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">66</SimpleData>
+		<SimpleData name="MXLOCATION">KAW</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">313142b0-8d2d-45a7-99aa-cc7d45c60abc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.722881319639,-38.07687527092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kikiwa</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">67</SimpleData>
+		<SimpleData name="MXLOCATION">KIK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">4740874e-38cd-4f7c-a60e-be3950188b81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.873906396579,-41.6734097730656</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kinleith</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">68</SimpleData>
+		<SimpleData name="MXLOCATION">KIN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">4659dc55-5966-42e2-9dd4-f7b5af767a50</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.883075349237,-38.2724416587401</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Karapiro</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">69</SimpleData>
+		<SimpleData name="MXLOCATION">KPO</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">4469af4c-2332-4b52-9c97-a05fa963a1ac</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.537461494668,-37.9243493921812</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kopu</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">70</SimpleData>
+		<SimpleData name="MXLOCATION">KPU</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5467632b-cfa2-444e-ba55-2e0b3f4820d8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.601814786116,-37.1918129538094</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kumara</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">72</SimpleData>
+		<SimpleData name="MXLOCATION">KUM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">14420f0d-6924-4681-afdc-4a59a52abb7c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.19552834425,-42.6354886393011</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kaiwharawhara</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">73</SimpleData>
+		<SimpleData name="MXLOCATION">KWA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">920f8b90-43f6-4e49-a819-d51a4e60e45f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.790548028906,-41.2590170817156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Lichfield</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">74</SimpleData>
+		<SimpleData name="MXLOCATION">LFD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">11619149-df1b-43c7-acef-cacc762acbb5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.824119827531,-38.1335099711499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kaitimako</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">76</SimpleData>
+		<SimpleData name="MXLOCATION">KMO</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c9203430-92fb-4d3e-bf31-ed6cb1151f45</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.169087529658,-37.7394425634046</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kaikohe</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">77</SimpleData>
+		<SimpleData name="MXLOCATION">KOE</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fa9c66cf-7dda-40fa-b600-7d322c69ed3b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>173.810609911959,-35.3961981343351</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Livingstone</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">78</SimpleData>
+		<SimpleData name="MXLOCATION">LIV</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">d452a179-5e3c-40b8-8209-ade0311bb096</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.636499392691,-44.9330528105522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Linton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">79</SimpleData>
+		<SimpleData name="MXLOCATION">LTN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">29a05bc3-95cf-43a9-a52e-e8f1040369cb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.631428174305,-40.4104332328278</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Manapouri</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">80</SimpleData>
+		<SimpleData name="MXLOCATION">MAN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">37464b5a-496d-4554-affe-e475cbb177ea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>167.278032220631,-45.5207959974056</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Matahina</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">81</SimpleData>
+		<SimpleData name="MXLOCATION">MAT</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ab74ca0a-f097-4ddb-85cb-3854eb23c50c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.814617067829,-38.1134292874162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Murchison</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">82</SimpleData>
+		<SimpleData name="MXLOCATION">MCH</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">329a5226-054c-414d-b565-f5d09e507f8e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.33690857532,-41.7888105586909</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Marsden</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">83</SimpleData>
+		<SimpleData name="MXLOCATION">MDN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c4b4e963-5a61-4b1e-a82d-13017ca4184e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.466911683206,-35.8756960062743</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Meremere</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">84</SimpleData>
+		<SimpleData name="MXLOCATION">MER</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">32cedfbf-142b-47cf-9b19-fa31f83cc612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.068549767572,-37.3150217981532</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Mangamaire</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">85</SimpleData>
+		<SimpleData name="MXLOCATION">MGM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fab533fc-8780-469b-83a9-291325545039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.751861495761,-40.5173200338571</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Mangahao</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">86</SimpleData>
+		<SimpleData name="MXLOCATION">MHO</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">0d4998cd-4c77-4162-bca2-d42ab6e54ab2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.448941978547,-40.5765750043424</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Melling</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">87</SimpleData>
+		<SimpleData name="MXLOCATION">MLG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">23da9d40-16cf-45b6-92f8-35ab0d6c181a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.916003433667,-41.2003146478276</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Mangere</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">88</SimpleData>
+		<SimpleData name="MXLOCATION">MNG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c56795cc-5b30-4bd1-a3fc-730f1daed4b8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.82762695553,-36.9627792715412</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Motunui</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">89</SimpleData>
+		<SimpleData name="MXLOCATION">MNI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">6db893f4-9e1f-4e63-b180-09a53b539a4f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.288222831649,-38.9939189677244</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Maungatapere</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">91</SimpleData>
+		<SimpleData name="MXLOCATION">MPE</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">9fb0503b-d20c-4f07-8e50-a7f27eda319b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.207226207887,-35.7663881380906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Maraetai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">93</SimpleData>
+		<SimpleData name="MXLOCATION">MTI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fc7c04b4-a6a2-4c84-98e4-16dbadc06b61</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.743872663552,-38.3525834281888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Mt Maunganui</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">94</SimpleData>
+		<SimpleData name="MXLOCATION">MTM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">deb5bce3-b16e-4ba7-b6da-b10d4c85dbed</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.214121735062,-37.6779016839687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Marton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">95</SimpleData>
+		<SimpleData name="MXLOCATION">MTN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5caff896-d9c6-43e8-a6d5-8e9ec74c9efa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.36053133392,-40.102991277839</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Maungaturoto</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">96</SimpleData>
+		<SimpleData name="MXLOCATION">MTO</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">f0af0177-1669-425f-b98d-26c95a286c7b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.359190870393,-36.0866744732454</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Mataroa</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">97</SimpleData>
+		<SimpleData name="MXLOCATION">MTR</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">b4fd912b-3ade-4c60-aa90-b2b06216e7ea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.701966581362,-39.6578979784841</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Masterton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">98</SimpleData>
+		<SimpleData name="MXLOCATION">MST</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">575ec08a-bcfa-4484-b8a9-0fc94d084288</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.611594576867,-40.9773703703708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Nga Awa Purua</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">99</SimpleData>
+		<SimpleData name="MXLOCATION">NAP</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c734ab38-ae6c-43f1-8754-6b00802e2648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.183809946936,-38.6135259692747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>North Makarewa</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">100</SimpleData>
+		<SimpleData name="MXLOCATION">NMA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">172fbfc8-ce89-426c-a4b9-3fb58c516fee</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.359526133254,-46.3049407875409</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>National Park</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">101</SimpleData>
+		<SimpleData name="MXLOCATION">NPK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c595bc14-ce50-42fe-816b-50f873d52d89</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.398730768565,-39.1579841150757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>New Plymouth</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">102</SimpleData>
+		<SimpleData name="MXLOCATION">NPL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">eb73eb8d-8646-4c15-a36b-8b7d36fca4ef</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.026749394814,-39.0583106925473</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Naseby</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">103</SimpleData>
+		<SimpleData name="MXLOCATION">NSY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2a854451-2755-4508-a29a-b09042e79b10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.093349798903,-45.0332430710938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Oamaru</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">104</SimpleData>
+		<SimpleData name="MXLOCATION">OAM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">bb6a42fd-b927-4e02-a411-b6dc414ccece</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.917357237019,-45.0693294072924</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ohau A</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">105</SimpleData>
+		<SimpleData name="MXLOCATION">OHA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a6baa64f-9e47-436b-8351-00a1ce95e732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.029337671999,-44.2658570133698</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ohau B</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">106</SimpleData>
+		<SimpleData name="MXLOCATION">OHB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">9f07917a-c71e-417e-b8a5-5c73107ce551</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.110655520529,-44.3014618479026</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ohau C</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">107</SimpleData>
+		<SimpleData name="MXLOCATION">OHC</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">92a5f29d-2006-4a0f-baf3-60f740bb2c85</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.179706388065,-44.3432691205569</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ohakuri</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">108</SimpleData>
+		<SimpleData name="MXLOCATION">OHK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a4fbef3d-fe8a-4972-8fd0-f1c9ac6a0527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.085946654042,-38.407975903669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ohinewai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">109</SimpleData>
+		<SimpleData name="MXLOCATION">OHW</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">8d76da40-e4e2-4ae9-827d-4ff91168ad94</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.29650290509,-37.4779871138225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Okere</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">110</SimpleData>
+		<SimpleData name="MXLOCATION">OKE</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c6700f33-e6e4-448b-8bfd-bcee497212b8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.340673056385,-38.0302581565503</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ohaaki</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">111</SimpleData>
+		<SimpleData name="MXLOCATION">OKI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">70ef8529-d674-4278-99c5-048724961825</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.292232243063,-38.5280480958881</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ohakune</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">112</SimpleData>
+		<SimpleData name="MXLOCATION">OKN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">b79f5699-6466-429e-bda3-7f8d56904a01</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.368138599222,-39.4267918698904</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Ongarue</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">113</SimpleData>
+		<SimpleData name="MXLOCATION">ONG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">4cc34bcb-20ad-4bd4-ad87-7bc6c5b5b7af</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.181876743608,-38.7456956231554</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Opunake</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">114</SimpleData>
+		<SimpleData name="MXLOCATION">OPK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ec8233a3-815e-492a-930e-6aa757ad8de6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>173.927316215564,-39.3925872376463</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Otahuhu</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">115</SimpleData>
+		<SimpleData name="MXLOCATION">OTA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">929a843f-abd1-4d38-9d2e-0e4c8c4b347b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.862699006183,-36.955194815775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Otahuhu Power Station</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">116</SimpleData>
+		<SimpleData name="MXLOCATION">OTG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2958289e-c8bf-415b-a56b-da1dd06c46f2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.865062408492,-36.9509208981001</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Otira</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">117</SimpleData>
+		<SimpleData name="MXLOCATION">OTI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">9575d6a2-af16-47e2-b03c-5424bb9ae8dc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.564768986514,-42.8317218094869</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Owhata</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">118</SimpleData>
+		<SimpleData name="MXLOCATION">OWH</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">09b5c61d-b95d-4a0f-9466-5ccb41f726ce</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.323296459428,-38.1299686079822</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Pakuranga</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">119</SimpleData>
+		<SimpleData name="MXLOCATION">PAK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">80ef4666-5441-4f6b-b600-b9bdafc282b4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.906656710117,-36.9259433536049</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Piako</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">121</SimpleData>
+		<SimpleData name="MXLOCATION">PAO</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">15adb99a-4c7d-4222-9306-458c933673f0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.560790381519,-37.6507124020282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Penrose</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">123</SimpleData>
+		<SimpleData name="MXLOCATION">PEN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">26fd7879-7759-4c4c-8054-a43c49b1626c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.816878498848,-36.9046374987988</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Pauatahanui</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">124</SimpleData>
+		<SimpleData name="MXLOCATION">PNI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">167ab9c0-c7f7-47d7-a45e-10e115c8425c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.918867560736,-41.1096894310912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Paraparaumu</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">125</SimpleData>
+		<SimpleData name="MXLOCATION">PRM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">138c1063-f9c9-459f-b1da-b908e31b7365</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.012308984085,-40.9253789222455</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Poihipi</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">126</SimpleData>
+		<SimpleData name="MXLOCATION">PPI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">e7ccf85b-7df2-44b4-a64a-41874a72e15f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.04125544944,-38.6298262196692</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Redclyffe</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">127</SimpleData>
+		<SimpleData name="MXLOCATION">RDF</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ddc9c5b5-ea05-4de7-8a35-20e995706550</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.822084719219,-39.5514812971015</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Robertson Street</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">128</SimpleData>
+		<SimpleData name="MXLOCATION">ROB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c3ff5156-10de-487e-9210-3995cf0278db</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.611204365357,-41.7651443512971</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Mount Roskill</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">129</SimpleData>
+		<SimpleData name="MXLOCATION">ROS</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">525d91d6-09b6-4ae2-a381-45f1c35270d1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.725738220953,-36.913847394651</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rotorua</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">130</SimpleData>
+		<SimpleData name="MXLOCATION">ROT</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">1283de60-f99b-4062-bb22-b04d3ce19cc4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.227053117214,-38.1482678314092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Roxburgh</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">131</SimpleData>
+		<SimpleData name="MXLOCATION">ROX</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">1a04e567-5972-49b8-8210-f30dde5ae59f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>169.319135490154,-45.4772218924985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rangipo</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">132</SimpleData>
+		<SimpleData name="MXLOCATION">RPO</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fefc683b-0c13-4dc4-8c2d-40ae96995f90</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.837454320752,-39.1531848069173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Reefton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">133</SimpleData>
+		<SimpleData name="MXLOCATION">RFN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">6e31b705-cbb2-4ff0-8a38-455e8b67e9e5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.844761645029,-42.0825557403676</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Southbrook</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">134</SimpleData>
+		<SimpleData name="MXLOCATION">SBK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">89356a6e-90a5-4e25-a742-39616cda020c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.598726432817,-43.3273439536577</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Springston</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">135</SimpleData>
+		<SimpleData name="MXLOCATION">SPN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5d7e99f5-10a6-4283-abb9-3a585dd3112c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.44990276642,-43.637805763675</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Stoke</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">136</SimpleData>
+		<SimpleData name="MXLOCATION">STK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">1a162dc1-8abe-43fa-bd6e-11648a42c3cb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>173.243155157162,-41.3151934818933</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>South Dunedin</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">137</SimpleData>
+		<SimpleData name="MXLOCATION">SDN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ee75611e-ac8d-43bd-9ec0-dc853eb3909c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.507522621625,-45.8907394098441</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Stratford</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">138</SimpleData>
+		<SimpleData name="MXLOCATION">SFD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5fa8c13a-747b-4ae9-b528-75a121300383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.320461655912,-39.334357939734</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Studholme</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">139</SimpleData>
+		<SimpleData name="MXLOCATION">STU</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2fecb67a-6f6c-4362-b447-a8a80348bdf3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.137383393701,-44.7322773385717</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Silverdale</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">140</SimpleData>
+		<SimpleData name="MXLOCATION">SVL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">75ed85a9-a837-4f5c-adf5-f12366df85a8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.683404258253,-36.6236289858472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Southdown</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">141</SimpleData>
+		<SimpleData name="MXLOCATION">SWN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a1926d2f-49f2-4e1f-9ceb-e3d88c7d5230</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.827744530525,-36.9268146760233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Takanini</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">142</SimpleData>
+		<SimpleData name="MXLOCATION">TAK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">4736b263-2bb3-4945-a9bd-6485b40bdf27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.933642315226,-37.0390080104941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Timaru</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">143</SimpleData>
+		<SimpleData name="MXLOCATION">TIM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">9c175432-1e98-4bef-87f0-2e5c2c808ea5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.230759711062,-44.3726338070168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tekapo A</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">144</SimpleData>
+		<SimpleData name="MXLOCATION">TKA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2a79d472-491f-4f39-8ca9-058aa8134c20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.460789916721,-44.013832705938</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tekapo B</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">145</SimpleData>
+		<SimpleData name="MXLOCATION">TKB</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">76aa3f3b-ed92-4d58-9c7f-5491ee91df7d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.211724734036,-44.1251157053877</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tauranga</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">146</SimpleData>
+		<SimpleData name="MXLOCATION">TGA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5d2d9a37-cc2e-4512-90c4-173f9914241c</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.130869830401,-37.7277248845064</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Takapu Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">148</SimpleData>
+		<SimpleData name="MXLOCATION">TKR</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2fe84d14-99c5-418e-af5d-bcf0941fee93</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.871607757175,-41.1573234740155</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tokaanu</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">149</SimpleData>
+		<SimpleData name="MXLOCATION">TKU</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">dbfc2ac2-0815-4b1d-8775-b11e1d6f750e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.770224474118,-38.9817213214105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Three Mile Hill</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">150</SimpleData>
+		<SimpleData name="MXLOCATION">TMH</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">57306ca5-7cd5-43ee-b474-b45ac5feda04</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.433448779912,-45.8565607396466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Te Matai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">151</SimpleData>
+		<SimpleData name="MXLOCATION">TMI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">74f3206f-3021-468e-a463-e4451be41b27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.339563368173,-37.8168787162182</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Temuka</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">152</SimpleData>
+		<SimpleData name="MXLOCATION">TMK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">58e8bcef-4de5-45db-bed8-568a1712061a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.292219816792,-44.2236346664552</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Taumarunui</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">153</SimpleData>
+		<SimpleData name="MXLOCATION">TMN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">e6cd6760-ff16-4088-85e9-feb529f2e84f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.326851744222,-38.88916728221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Te Awamutu</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">154</SimpleData>
+		<SimpleData name="MXLOCATION">TMU</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">64c324bb-4e02-40d3-be2e-3982fb8838ef</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.320176840289,-38.0021422322313</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tangiwai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">155</SimpleData>
+		<SimpleData name="MXLOCATION">TNG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">f5ba64ad-f58b-44cb-b514-e1285abeb6e0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.572545768014,-39.4654028238697</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tarukenga</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">157</SimpleData>
+		<SimpleData name="MXLOCATION">TRK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">32fcb6ab-550c-4708-867c-13ab1bb99f41</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.159634079146,-38.0738377731308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tuai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">158</SimpleData>
+		<SimpleData name="MXLOCATION">TUI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">22d5f702-748d-4056-9337-e01ac3dfd289</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>177.151398922224,-38.8053542148106</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tararua Wind Central</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">159</SimpleData>
+		<SimpleData name="MXLOCATION">TWC</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a818ad63-b232-45de-8456-64e8b7b41f9b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.773559587721,-40.35375738956</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Te Kowhai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">160</SimpleData>
+		<SimpleData name="MXLOCATION">TWH</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">48ff4b98-553d-41e0-9f24-f9ee5a2273e9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.123037525692,-37.7296817929898</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tiwai</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">161</SimpleData>
+		<SimpleData name="MXLOCATION">TWI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">de2efdf0-086e-499e-8e2f-b41f3dd2b6b4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.392617703291,-46.5897629055941</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waiotahi</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">163</SimpleData>
+		<SimpleData name="MXLOCATION">WAI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">b033354f-24d4-40c1-a187-6fe4b086a36e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>177.19215251255,-38.0251205054007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Woodville</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">164</SimpleData>
+		<SimpleData name="MXLOCATION">WDV</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c2e38ebb-89b7-48cb-a750-5c91669fabe0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.856092620109,-40.315510243038</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wellsford</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">165</SimpleData>
+		<SimpleData name="MXLOCATION">WEL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">84945f74-b373-49ab-bedc-0ed83dec15cc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.513412619646,-36.2847629103285</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Western Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">166</SimpleData>
+		<SimpleData name="MXLOCATION">WES</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">60196013-cc99-40d4-bea9-5eefaab5fba7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.147555912505,-37.5663668860472</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wanganui</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">167</SimpleData>
+		<SimpleData name="MXLOCATION">WGN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">0ea649e7-4b31-40da-9ea4-953fc2fcdb8b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.11916852824,-39.938162592352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Whirinaki</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">168</SimpleData>
+		<SimpleData name="MXLOCATION">WHI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">da432ec4-06fb-4f50-88be-0b8cc1fb0787</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.886767474199,-39.3820619790374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waihou</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">169</SimpleData>
+		<SimpleData name="MXLOCATION">WHU</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">88237687-a2a4-4fe6-b5e7-2e52ae0d52c6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.683159525493,-37.5692169872085</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wilton</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">170</SimpleData>
+		<SimpleData name="MXLOCATION">WIL</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">33ef9369-8fe7-4ea2-be2d-fb9bd061256f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.75954835334,-41.2585493892607</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wiri</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">171</SimpleData>
+		<SimpleData name="MXLOCATION">WIR</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">c136b49a-e897-4b8a-9e65-288677a220c1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.884594739978,-36.9878191903504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Whakamaru</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">172</SimpleData>
+		<SimpleData name="MXLOCATION">WKM</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a8ec1239-88e8-4adf-bd54-3791ffbc7528</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.80037418803,-38.4190816050185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waikino</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">173</SimpleData>
+		<SimpleData name="MXLOCATION">WKO</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">252f5d1f-d9ab-46fc-9858-b0a2864da529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.774856951536,-37.4158925220615</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Twizel</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">174</SimpleData>
+		<SimpleData name="MXLOCATION">TWZ</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">0215fc88-d410-492a-b3ea-38bfd4a378cb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.100401566392,-44.2785418761504</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Upper Hutt</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">175</SimpleData>
+		<SimpleData name="MXLOCATION">UHT</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">dd0f334d-2fde-4d83-8327-5df51876c82a</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.09427627401,-41.0995355942241</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waimangaroa</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">176</SimpleData>
+		<SimpleData name="MXLOCATION">WMG</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">35fab62f-5387-49ac-9194-18956f654829</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.757004181793,-41.7180965647653</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waipapa</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">177</SimpleData>
+		<SimpleData name="MXLOCATION">WPA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fdce1857-c3f6-4757-b1aa-48deeb5f0f92</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.683396408149,-38.2916611594744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waipara</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">178</SimpleData>
+		<SimpleData name="MXLOCATION">WPR</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">287010d6-daa0-45ee-b34e-c2110a44b7fa</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.756187843399,-43.0518903693018</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Westport</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">179</SimpleData>
+		<SimpleData name="MXLOCATION">WPT</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">806477ec-fcc8-4a03-b86d-8de6a75b1fdf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.50866202379,-41.7520420544919</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waipawa</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">180</SimpleData>
+		<SimpleData name="MXLOCATION">WPW</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">e0012174-e807-4d7c-8837-7debbdfd5a72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.447045268973,-39.9187216655445</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wairoa</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">181</SimpleData>
+		<SimpleData name="MXLOCATION">WRA</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">9a05a026-5a7c-4482-ae9c-0a06c0cb2b23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>177.406332233861,-38.9968228661785</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wairakei</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">182</SimpleData>
+		<SimpleData name="MXLOCATION">WRK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">204d5359-88fb-4795-948d-997065e6dc48</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.105091306213,-38.6258686344621</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waitaki</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">183</SimpleData>
+		<SimpleData name="MXLOCATION">WTK</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a48d8e75-88f7-4d93-903b-a6daf88e6557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.428899678996,-44.69188034693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Whakatu</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">184</SimpleData>
+		<SimpleData name="MXLOCATION">WTU</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2b42b546-44ba-44d7-94fb-349461dbcfa1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.881339161984,-39.6062919544723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waverley</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">185</SimpleData>
+		<SimpleData name="MXLOCATION">WVY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">69a96b62-9c90-4b83-976b-b4e7b4a7e7e2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.635491127477,-39.7541065494277</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>West Wind</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">186</SimpleData>
+		<SimpleData name="MXLOCATION">WWD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">8b1fe9a3-1ffd-4840-92dc-43a59f862ef0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.67897921169,-41.2698049997005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wairau Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">187</SimpleData>
+		<SimpleData name="MXLOCATION">WRD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">8874b7e4-f188-44ce-b4d1-c5ed0c5dec96</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.746842322072,-36.7803467344773</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Whakamaru North</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">188</SimpleData>
+		<SimpleData name="MXLOCATION">WHN</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">1a87ee34-d5c1-4685-94db-315573b09ca6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.793203334505,-38.41302673478</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kimberley</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">189</SimpleData>
+		<SimpleData name="MXLOCATION">KBY</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">bac4b0b6-b204-4a64-80cb-6524da3326b6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.084800495448,-43.4552305546176</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Te Mihi</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">190</SimpleData>
+		<SimpleData name="MXLOCATION">THI</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">d56c7795-34e9-4a2a-94cb-db568fcd4c5d</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.047895453291,-38.6176230560534</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Otahuhu Combined Cycle Power Station</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">191</SimpleData>
+		<SimpleData name="MXLOCATION">OTC</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">e715f262-c99c-47ac-8f4c-b4d3c5e709a0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.863587746187,-36.9499920746093</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Te Hikowhenua Electrode</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">192</SimpleData>
+		<SimpleData name="MXLOCATION">THW</SimpleData>
+		<SimpleData name="type">HVDC</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">4460bfcb-053b-47c2-9ef9-031c6ffc44f2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.719782800459,-41.2078266297179</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Oteranga Bay</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">193</SimpleData>
+		<SimpleData name="MXLOCATION">OTB</SimpleData>
+		<SimpleData name="type">HVDC</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">43375f00-0325-4533-a3bd-d9283d1701d2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.630032210527,-41.294314933257</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Haywards DC</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">195</SimpleData>
+		<SimpleData name="MXLOCATION">HAY-DC</SimpleData>
+		<SimpleData name="type">HVDC</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">f21554ab-7dfe-4483-839d-6ff42f319206</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.981666302063,-41.1512935960102</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Fighting Bay</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">196</SimpleData>
+		<SimpleData name="MXLOCATION">FTB</SimpleData>
+		<SimpleData name="type">HVDC</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5cd63c43-12b2-4804-9962-b5450ae15ecd</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.202007459276,-41.3096784209783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Bog Roy Electrode</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">197</SimpleData>
+		<SimpleData name="MXLOCATION">BGR</SimpleData>
+		<SimpleData name="type">HVDC</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ec0ae955-3a5f-44ae-9179-4b82b939f012</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.098838955089,-44.573721075735</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Benmore DC</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">200</SimpleData>
+		<SimpleData name="MXLOCATION">BEN-DC</SimpleData>
+		<SimpleData name="type">HVDC</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">fd61ba76-3342-46e9-9303-06dd7d663374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.191485201803,-44.5647077650867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>McKee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">275</SimpleData>
+		<SimpleData name="MXLOCATION">MKE</SimpleData>
+		<SimpleData name="type">OTHER</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">23b52a2d-9f13-4137-9360-b7612d1b54cb</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.336129698534,-39.0976439636271</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Wiri Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">276</SimpleData>
+		<SimpleData name="MXLOCATION">WRT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">da190fdd-ec1b-47fa-bbfc-fc48980e6348</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.885855620524,-36.9874656754499</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Waipara Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">277</SimpleData>
+		<SimpleData name="MXLOCATION">WTT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ec26bbe3-693c-4f11-9368-e0579e6a9d0b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.754437599995,-43.0504728415708</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Tararua Wind Central Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">278</SimpleData>
+		<SimpleData name="MXLOCATION">TWT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">bd01deb7-4a46-4557-9a2b-615e12380442</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.709102498827,-40.3559438293536</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Two Mile River Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">279</SimpleData>
+		<SimpleData name="MXLOCATION">TMR</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">de4d8ebf-3aca-4b93-831b-946d7b2e44fe</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.025192567272,-42.6991542928747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Reefton Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">280</SimpleData>
+		<SimpleData name="MXLOCATION">RFC</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">04d816e9-3a02-4d0e-ab7a-a082bc07b817</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.844768669736,-42.0821685381116</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Rangitoto Hills Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">282</SimpleData>
+		<SimpleData name="MXLOCATION">RTO</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">dc4c8ea8-2081-4527-a251-956659d0bed6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.305686524644,-38.3228913186009</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Retaruke Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">283</SimpleData>
+		<SimpleData name="MXLOCATION">RTR</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">5c09f121-d70a-4158-aede-97f2c02ce741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.286290288352,-39.1771384920563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Takanini Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">284</SimpleData>
+		<SimpleData name="MXLOCATION">TAT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">42023713-87cf-4781-8ef3-b00c6929b76b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.932308201083,-37.0387142994494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Pauatahanui Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">285</SimpleData>
+		<SimpleData name="MXLOCATION">PNT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ab4ad806-454e-44c5-8391-4ecd181eb65e</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.918948946124,-41.1100303552948</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Poike Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">286</SimpleData>
+		<SimpleData name="MXLOCATION">PIE</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">2af553c6-f601-4c2f-b836-7c03f2602acf</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>176.1525621083,-37.7352821084685</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Orowaiti Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">287</SimpleData>
+		<SimpleData name="MXLOCATION">ORO</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">338b205a-e2a5-4faa-b441-0971bdf41cea</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.609319256811,-41.7699286177796</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Opihi Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">288</SimpleData>
+		<SimpleData name="MXLOCATION">OPI</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">dca8a4f6-70b6-4e04-891d-ae1b74a9c5da</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.015371551911,-44.1937704325486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kimberley Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">289</SimpleData>
+		<SimpleData name="MXLOCATION">KBT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ec2efdb9-5e75-463e-854b-e2d4c8c3087b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.083248152257,-43.4651305922686</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Judgeford</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">290</SimpleData>
+		<SimpleData name="MXLOCATION">JFD</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">49d8135a-d9c5-4ebc-bac8-56f6e8c9f05f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.944172986798,-41.1112466570807</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Lichfield Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">291</SimpleData>
+		<SimpleData name="MXLOCATION">LFT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">82d70280-f380-48eb-b125-85161cdaaf19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.824065333513,-38.1338716851895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kawhaka Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">292</SimpleData>
+		<SimpleData name="MXLOCATION">KHA</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">3c544e25-d7aa-41dd-9457-3db3a22c952b</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.168669495332,-42.7282212366428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Kaponga Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">293</SimpleData>
+		<SimpleData name="MXLOCATION">KPA</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">46946194-5bb8-4583-b13c-761f84013266</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.157874065386,-39.3892596405143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Morrinsville Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">295</SimpleData>
+		<SimpleData name="MXLOCATION">MVE</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">7e8fa359-a116-44a7-b493-533eaf73b1fc</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.578881624885,-37.6547334779486</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>McKee Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">296</SimpleData>
+		<SimpleData name="MXLOCATION">MKT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">6d89c591-5149-4f6e-96af-f937a8788172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.290772568631,-39.0395397603062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Makara Heights Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">297</SimpleData>
+		<SimpleData name="MXLOCATION">MHT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">ac6e0927-8e83-49fd-a728-ddb6de09ab34</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.70455423705,-41.2864258205579</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Gore Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">298</SimpleData>
+		<SimpleData name="MXLOCATION">GOT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">f73c0506-7e45-43df-95a5-911feeba6342</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>168.912971200225,-46.1334557216308</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Glenavy</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">299</SimpleData>
+		<SimpleData name="MXLOCATION">GNY</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">69552ea9-84e7-4e2b-9f3a-0817f5f79f52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.107372041213,-44.9225396198581</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Culverden Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">300</SimpleData>
+		<SimpleData name="MXLOCATION">CUT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">1001e29c-4c13-4d61-9fbb-da61c0f212c9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.878208248014,-42.7200159765996</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Christchurch Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">301</SimpleData>
+		<SimpleData name="MXLOCATION">CHH</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">4f23dc77-c470-447c-a8f7-11da5c059d84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>172.524311601195,-43.5893103498162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Black Point Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">302</SimpleData>
+		<SimpleData name="MXLOCATION">BPC</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">440437e8-e516-4747-a9ff-b8505c859a83</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.796431521789,-44.8631826642797</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Brackendale</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">303</SimpleData>
+		<SimpleData name="MXLOCATION">BKD</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">a12729be-2bf2-4ba5-b6f6-67c43eb32007</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>171.813511136415,-43.5544563324197</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Bells Pond Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">304</SimpleData>
+		<SimpleData name="MXLOCATION">BDT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">222070f3-5bdf-44c5-9705-f356a47c2a1f</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>170.955331931724,-44.8919123869426</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Paraparaumu Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">705</SimpleData>
+		<SimpleData name="MXLOCATION">PRT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">7be0b117-81b3-4da8-8f35-9b63082c2e35</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>175.019898196943,-40.9212794537568</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Junction Road Tee</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">706</SimpleData>
+		<SimpleData name="MXLOCATION">JRT</SimpleData>
+		<SimpleData name="type">TEE</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">18b3a66d-4eea-45c7-a706-edb776b5ef39</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.107410980146,-39.1157459902808</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<description>Junction Road</description>
+	<ExtendedData><SchemaData schemaUrl="#Sites">
+		<SimpleData name="OBJECTID">707</SimpleData>
+		<SimpleData name="MXLOCATION">JRD</SimpleData>
+		<SimpleData name="type">ACSTN</SimpleData>
+		<SimpleData name="status">COMMISSIONED</SimpleData>
+		<SimpleData name="GlobalID">53849635-764f-48cd-8909-0315a643fe19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>174.103607134834,-39.1167422705206</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
